@@ -17,7 +17,8 @@
         <execute_function>false</execute_function>
         <filter_condition/>
         <is_rest>false</is_rest>
-        <message><![CDATA[<p>//Test BR_23-6-2022</p>]]></message>
+        <message><![CDATA[<p>//Test BR_23-6-2022</p>
+<p>//test</p>]]></message>
         <name>Test BR_23-6-2022</name>
         <order>100</order>
         <priority>100</priority>
@@ -38,7 +39,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>417f1e491bd8d110089dc9961a4bcbbd</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Test BR_23-6-2022</sys_name>
         <sys_overrides/>
         <sys_package display_value="CICD R&amp;D" source="x_hclte_cicd_r_d">5a90f48f1b318110089dc9961a4bcb03</sys_package>
@@ -46,7 +47,7 @@
         <sys_scope display_value="CICD R&amp;D">5a90f48f1b318110089dc9961a4bcb03</sys_scope>
         <sys_update_name>sys_script_417f1e491bd8d110089dc9961a4bcbbd</sys_update_name>
         <sys_updated_by>anku_sharma@hcl.com</sys_updated_by>
-        <sys_updated_on>2022-06-23 16:22:11</sys_updated_on>
+        <sys_updated_on>2022-06-23 18:51:03</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
