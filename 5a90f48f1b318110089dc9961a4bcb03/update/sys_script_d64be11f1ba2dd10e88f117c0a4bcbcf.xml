@@ -17,7 +17,8 @@
         <execute_function>false</execute_function>
         <filter_condition/>
         <is_rest>false</is_rest>
-        <message><![CDATA[<p>//Test BR_20</p>]]></message>
+        <message><![CDATA[<p>//Test BR_20</p>
+<p>// modified </p>]]></message>
         <name>Test BR_20</name>
         <order>100</order>
         <priority>100</priority>
